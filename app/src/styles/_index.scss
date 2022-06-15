@@ -1,0 +1,19 @@
+* {
+    margin: 0 auto;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+    font-family: 'Raleway', sans-serif;
+}
+
+html {
+    height: 100%;
+    font-size: 18px;
+}
+
+body {
+    font-family: $font-primary;
+    height: 80%;
+    margin: 5%;
+}

@@ -1,0 +1,28 @@
+.notes  {
+    width: 70%;  
+    margin-bottom: 0.8%;
+    border: 2px solid darkgray;
+    box-shadow: 3px 3px #131746;
+    border-radius: 10px;
+    padding: 5px;
+    overflow: hidden;
+}
+
+.notes:hover {
+    background-color: rgba(239, 239, 239, 0.919);
+}
+.indiv-note {
+    float: left;
+    width: 90%;
+}
+.delete  {
+    float: right;
+    width: 10%;
+    border: 0;
+    color: white;
+}
+
+.delete .btn:hover {
+    color: black;
+
+}
